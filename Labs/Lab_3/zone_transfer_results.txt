@@ -1,0 +1,309 @@
+Processing domain: hcmus.edu.vn
+Attempting zone transfer for hcmus.edu.vn on nameserver: dns2.hcmus.edu.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @dns2.hcmus.edu.vn. hcmus.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+hcmus.edu.vn.		1800	IN	SOA	server.hcmus.edu.vn. netadmin.hcmus.edu.vn. 2024113003 600 300 3600 900
+; Transfer failed.
+Attempting zone transfer for hcmus.edu.vn on nameserver: server.hcmus.edu.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @server.hcmus.edu.vn. hcmus.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+----------------------------------------
+Processing domain: hcmussh.edu.vn
+Attempting zone transfer for hcmussh.edu.vn on nameserver: ns2.vdconline.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @ns2.vdconline.vn. hcmussh.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+Attempting zone transfer for hcmussh.edu.vn on nameserver: ns1.vdconline.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @ns1.vdconline.vn. hcmussh.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+----------------------------------------
+Processing domain: uit.edu.vn
+Attempting zone transfer for uit.edu.vn on nameserver: ns2.pavietnam.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @ns2.pavietnam.vn. uit.edu.vn AXFR
+; (2 servers found)
+;; global options: +cmd
+; Transfer failed.
+Attempting zone transfer for uit.edu.vn on nameserver: nsbak.pavietnam.net.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @nsbak.pavietnam.net. uit.edu.vn AXFR
+; (2 servers found)
+;; global options: +cmd
+; Transfer failed.
+Attempting zone transfer for uit.edu.vn on nameserver: ns1.pavietnam.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @ns1.pavietnam.vn. uit.edu.vn AXFR
+; (2 servers found)
+;; global options: +cmd
+; Transfer failed.
+----------------------------------------
+Processing domain: hcmut.edu.vn
+Attempting zone transfer for hcmut.edu.vn on nameserver: dns4.hcmut.edu.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @dns4.hcmut.edu.vn. hcmut.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+Attempting zone transfer for hcmut.edu.vn on nameserver: dns3.hcmut.edu.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @dns3.hcmut.edu.vn. hcmut.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+Attempting zone transfer for hcmut.edu.vn on nameserver: dns1.hcmut.edu.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @dns1.hcmut.edu.vn. hcmut.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+Attempting zone transfer for hcmut.edu.vn on nameserver: dns2.hcmut.edu.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @dns2.hcmut.edu.vn. hcmut.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+----------------------------------------
+Processing domain: hcmiu.edu.vn
+Attempting zone transfer for hcmiu.edu.vn on nameserver: hcm-server1.vnn.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @hcm-server1.vnn.vn. hcmiu.edu.vn AXFR
+; (2 servers found)
+;; global options: +cmd
+; Transfer failed.
+Attempting zone transfer for hcmiu.edu.vn on nameserver: vdc-hn01.vnn.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @vdc-hn01.vnn.vn. hcmiu.edu.vn AXFR
+; (2 servers found)
+;; global options: +cmd
+; Transfer failed.
+----------------------------------------
+Processing domain: uel.edu.vn
+Attempting zone transfer for uel.edu.vn on nameserver: ns2.dns.net.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @ns2.dns.net.vn. uel.edu.vn AXFR
+; (2 servers found)
+;; global options: +cmd
+; Transfer failed.
+Attempting zone transfer for uel.edu.vn on nameserver: ns1.dns.net.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @ns1.dns.net.vn. uel.edu.vn AXFR
+; (2 servers found)
+;; global options: +cmd
+; Transfer failed.
+----------------------------------------
+Processing domain: hcmier.edu.vn
+Attempting zone transfer for hcmier.edu.vn on nameserver: vnuserv.vnuhcm.edu.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @vnuserv.vnuhcm.edu.vn. hcmier.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+Attempting zone transfer for hcmier.edu.vn on nameserver: server.vnuhcm.edu.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @server.vnuhcm.edu.vn. hcmier.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+----------------------------------------
+Processing domain: vnuhcm.edu.vn
+Attempting zone transfer for vnuhcm.edu.vn on nameserver: server.vnuhcm.edu.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @server.vnuhcm.edu.vn. vnuhcm.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+Attempting zone transfer for vnuhcm.edu.vn on nameserver: ns1.vdc2.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @ns1.vdc2.vn. vnuhcm.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+Attempting zone transfer for vnuhcm.edu.vn on nameserver: ns2.vdc2.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @ns2.vdc2.vn. vnuhcm.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+vnuhcm.edu.vn.		60	IN	SOA	vnuserv.vnuhcm.edu.vn. info.vdc2.vn. 2023080147 3 1 604800 10800
+vnuhcm.edu.vn.		60	IN	NS	vnuserv.vnuhcm.edu.vn.
+vnuhcm.edu.vn.		60	IN	NS	server.vnuhcm.edu.vn.
+vnuhcm.edu.vn.		60	IN	A	103.88.121.29
+vnuhcm.edu.vn.		60	IN	MX	10 aspmx.l.google.com.
+vnuhcm.edu.vn.		60	IN	MX	20 alt1.aspmx.l.google.com.
+vnuhcm.edu.vn.		60	IN	MX	25 alt2.aspmx.l.google.com.
+vnuhcm.edu.vn.		60	IN	MX	30 aspmx2.googlemail.com.
+vnuhcm.edu.vn.		60	IN	MX	40 aspmx4.googlemail.com.
+vnuhcm.edu.vn.		60	IN	MX	45 aspmx5.googlemail.com.
+vnuhcm.edu.vn.		60	IN	TXT	"v=spf1 ip4:103.88.121.53/32 include:_spf.google.com ~all"
+www.4s.vnuhcm.edu.vn.	60	IN	A	118.69.204.199
+default._domainkey.vnuhcm.edu.vn. 60 IN	CNAME	mailpro.emailserver.vn.
+mail._domainkey.vnuhcm.edu.vn. 60 IN	TXT	"v=DKIM1; h=sha256; k=rsa; s=email; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDzwt7Y3SQ7Jm5rwr8DvXM2VQ4Xoxu6s28CS3p4Tc3MVshAu4Q4rTOhRuUm7idAykpoo3tKAhOvoXOWDug9+jr2x4oS/YpGoqIueJNrpoImc8rX8k96KO6x/8FxSchvdq0FDePI8VapKKQNEUq9zgtGaNx7gm/ax0vQAe9wmSBMmwIDAQAB"
+aaa.vnuhcm.edu.vn.	60	IN	A	103.88.123.21
+aaa1.vnuhcm.edu.vn.	60	IN	A	103.88.123.22
+aad.vnuhcm.edu.vn.	60	IN	A	203.162.44.60
+ab.vnuhcm.edu.vn.	60	IN	A	203.162.147.252
+aun.vnuhcm.edu.vn.	60	IN	A	203.162.147.168
+baixektx.vnuhcm.edu.vn.	60	IN	A	123.30.236.140
+baocaoaad.vnuhcm.edu.vn. 60	IN	A	203.162.44.60
+mssql.baocaoaad.vnuhcm.edu.vn. 60 IN	A	203.162.44.60
+baocaoctsv.vnuhcm.edu.vn. 60	IN	CNAME	wblog.tech.
+bdt.vnuhcm.edu.vn.	60	IN	CNAME	aad.vnuhcm.edu.vn.
+betaaad.vnuhcm.edu.vn.	60	IN	A	222.255.69.252
+binhchon.vnuhcm.edu.vn.	60	IN	CNAME	voice.vnuhcm.edu.vn.
+calendar.vnuhcm.edu.vn.	60	IN	CNAME	ghs.google.com.
+career.vnuhcm.edu.vn.	60	IN	CNAME	career.edu.vn.
+cdio2015.vnuhcm.edu.vn.	60	IN	A	221.133.13.127
+cea.vnuhcm.edu.vn.	60	IN	A	103.88.123.7
+csgd.cea.vnuhcm.edu.vn.	60	IN	A	103.88.123.7
+database.cea.vnuhcm.edu.vn. 60	IN	A	103.88.123.7
+dkht.cea.vnuhcm.edu.vn.	60	IN	A	103.88.123.7
+www.cea.vnuhcm.edu.vn.	60	IN	CNAME	cea.vnuhcm.edu.vn.
+cete.vnuhcm.edu.vn.	60	IN	A	103.88.123.2
+www.cete.vnuhcm.edu.vn.	60	IN	CNAME	cete.vnuhcm.edu.vn.
+www.cetqa.vnuhcm.edu.vn. 60	IN	CNAME	cete.vnuhcm.edu.vn.
+chrd.vnuhcm.edu.vn.	60	IN	A	203.162.147.149
+club.vnuhcm.edu.vn.	60	IN	A	203.162.147.185
+www.cntttt.vnuhcm.edu.vn. 60	IN	A	203.162.44.72
+congdoan.vnuhcm.edu.vn.	60	IN	A	118.69.123.142
+cpmu-demo.vnuhcm.edu.vn. 60	IN	A	103.88.121.59
+cpmu-demo1.vnuhcm.edu.vn. 60	IN	A	112.78.11.146
+cps.vnuhcm.edu.vn.	60	IN	A	112.78.11.146
+ct.vnuhcm.edu.vn.	60	IN	A	203.162.147.252
+data.vnuhcm.edu.vn.	60	IN	A	203.162.147.185
+dataonline.vnuhcm.edu.vn. 60	IN	A	203.162.44.60
+demo.vnuhcm.edu.vn.	60	IN	A	103.88.121.29
+demo-cloud.vnuhcm.edu.vn. 60	IN	A	103.88.121.64
+demo-khcn.vnuhcm.edu.vn. 60	IN	A	203.162.147.185
+demo-lms.vnuhcm.edu.vn.	60	IN	A	103.88.121.142
+demo-portal.vnuhcm.edu.vn. 60	IN	A	203.128.241.215
+demo-portal-admin.vnuhcm.edu.vn. 60 IN	A	203.128.241.215
+demo-portal-static.vnuhcm.edu.vn. 60 IN	A	203.128.241.21
+demo1.vnuhcm.edu.vn.	60	IN	A	203.162.147.185
+demotuyensinh.vnuhcm.edu.vn. 60	IN	A	203.162.147.186
+doancoquan.vnuhcm.edu.vn. 60	IN	A	203.162.147.186
+doancoquan.vnuhcm.edu.vn. 60	IN	A	103.74.123.10
+doantn.vnuhcm.edu.vn.	60	IN	A	203.162.44.83
+www.doantn.vnuhcm.edu.vn. 60	IN	CNAME	doantn.vnuhcm.edu.vn.
+docs.vnuhcm.edu.vn.	60	IN	CNAME	ghs.google.com.
+email-reply.vnuhcm.edu.vn. 60	IN	A	103.88.121.53
+gddhhoinhapquocte.vnuhcm.edu.vn. 60 IN	A	123.30.191.189
+googleffffffffc5bb3390.vnuhcm.edu.vn. 60 IN CNAME google.com.
+greeting-card.vnuhcm.edu.vn. 60	IN	A	203.162.147.185
+hoidong.vnuhcm.edu.vn.	60	IN	A	203.162.147.185
+www.hoidong.vnuhcm.edu.vn. 60	IN	CNAME	hoidong.vnuhcm.edu.vn.
+hoithaocokhi.vnuhcm.edu.vn. 60	IN	A	165.22.97.200
+hoithaogiaothong.vnuhcm.edu.vn.	60 IN	A	206.189.35.164
+hosting.vnuhcm.edu.vn.	60	IN	A	203.162.147.185
+hotrokythuat.vnuhcm.edu.vn. 60	IN	A	112.78.11.146
+idm.vnuhcm.edu.vn.	60	IN	A	103.88.123.51
+it-support.vnuhcm.edu.vn. 60	IN	A	112.78.11.146
+jobs.vnuhcm.edu.vn.	60	IN	A	103.88.123.54
+journals.vnuhcm.edu.vn.	60	IN	CNAME	vnuhcmjournals.itp.vn.
+khaosat.vnuhcm.edu.vn.	60	IN	A	203.162.147.185
+khcn.vnuhcm.edu.vn.	60	IN	A	203.162.147.185
+quanly.khcn.vnuhcm.edu.vn. 60	IN	A	118.69.123.142
+khcn2018.vnuhcm.edu.vn.	60	IN	A	103.88.121.35
+khoanhkhacdothidaihoc.vnuhcm.edu.vn. 60	IN A	123.30.78.232
+kitucxa.vnuhcm.edu.vn.	60	IN	A	45.117.77.102
+ksknsvtn.vnuhcm.edu.vn.	60	IN	A	203.162.44.60
+ktx.vnuhcm.edu.vn.	60	IN	A	45.117.77.103
+ktx.vnuhcm.edu.vn.	60	IN	MX	0 vnuserv.vnuhcm.edu.vn.
+ktx.vnuhcm.edu.vn.	60	IN	MX	5 server.vnuhcm.edu.vn.
+mail.ktx.vnuhcm.edu.vn.	60	IN	A	203.162.44.60
+ktxdhqg.vnuhcm.edu.vn.	60	IN	A	45.117.77.102
+ktxdhqghcm.vnuhcm.edu.vn. 60	IN	A	123.30.236.140
+lichtuan.vnuhcm.edu.vn.	60	IN	A	203.162.147.195
+live.vnuhcm.edu.vn.	60	IN	A	42.116.11.16
+manage-01.vnuhcm.edu.vn. 60	IN	A	103.88.123.64
+manage-02.vnuhcm.edu.vn. 60	IN	A	103.88.121.41
+meeting.vnuhcm.edu.vn.	60	IN	A	203.162.147.247
+noc.vnuhcm.edu.vn.	60	IN	A	112.78.10.40
+ns.vnuhcm.edu.vn.	60	IN	A	14.225.232.25
+ns1.vnuhcm.edu.vn.	60	IN	A	14.225.232.25
+ns2.vnuhcm.edu.vn.	60	IN	A	14.225.232.25
+ntb.vnuhcm.edu.vn.	60	IN	A	103.88.88.88
+phapluat.vnuhcm.edu.vn.	60	IN	A	74.86.148.43
+portal-st.vnuhcm.edu.vn. 60	IN	A	103.88.121.38
+qlcb.vnuhcm.edu.vn.	60	IN	A	118.69.123.137
+qlda-vp.vnuhcm.edu.vn.	60	IN	A	103.88.121.138
+qlda-xd.vnuhcm.edu.vn.	60	IN	A	103.88.121.137
+qldt.vnuhcm.edu.vn.	60	IN	A	103.88.121.38
+qtmvp.vnuhcm.edu.vn.	60	IN	A	203.163.1.150
+quanlydetai.vnuhcm.edu.vn. 60	IN	A	115.78.164.32
+rankingdata.vnuhcm.edu.vn. 60	IN	A	103.88.121.33
+regents.vnuhcm.edu.vn.	60	IN	CNAME	hoidong.vnuhcm.edu.vn.
+rk.vnuhcm.edu.vn.	60	IN	A	103.88.121.33
+rkd.vnuhcm.edu.vn.	60	IN	A	103.88.121.33
+rm.vnuhcm.edu.vn.	60	IN	A	103.88.121.37
+rnm.vnuhcm.edu.vn.	60	IN	A	103.88.121.37
+server.vnuhcm.edu.vn.	60	IN	A	103.88.121.201
+server.vnuhcm.edu.vn.	60	IN	A	14.225.232.25
+server.vnuhcm.edu.vn.	60	IN	MX	50 vnuhcm.edu.vn.
+server3.vnuhcm.edu.vn.	60	IN	A	203.162.147.149
+sites.vnuhcm.edu.vn.	60	IN	CNAME	ghs.google.com.
+sm-vnu.vnuhcm.edu.vn.	60	IN	A	203.162.44.47
+static.vnuhcm.edu.vn.	60	IN	A	103.88.121.29
+svktx.vnuhcm.edu.vn.	60	IN	A	45.117.77.102
+tapchikhoahoc.vnuhcm.edu.vn. 60	IN	A	203.162.147.185
+tchc.vnuhcm.edu.vn.	60	IN	A	203.162.147.241
+tckh.vnuhcm.edu.vn.	60	IN	CNAME	tapchikhoahoc.vnuhcm.edu.vn.
+test.vnuhcm.edu.vn.	60	IN	A	203.162.147.186
+testbed.vnuhcm.edu.vn.	60	IN	A	203.162.44.55
+testing.vnuhcm.edu.vn.	60	IN	A	203.162.147.179
+testweb.vnuhcm.edu.vn.	60	IN	A	123.30.78.233
+thinangluc.vnuhcm.edu.vn. 60	IN	A	118.69.123.136
+thinangluc.vnuhcm.edu.vn. 60	IN	A	45.122.249.72
+thinangluc-test.vnuhcm.edu.vn. 60 IN	A	221.133.13.124
+thumoi.vnuhcm.edu.vn.	60	IN	A	125.253.116.180
+thuongnien.vnuhcm.edu.vn. 60	IN	A	203.162.147.252
+www.thuongnien.vnuhcm.edu.vn. 60 IN	CNAME	thuongnien.
+tspl.vnuhcm.edu.vn.	60	IN	A	203.162.44.60
+tt.vnuhcm.edu.vn.	60	IN	CNAME	thuongnien.vnuhcm.edu.vn.
+ttgdqp.vnuhcm.edu.vn.	60	IN	A	222.255.69.250
+ttqlptkdt.vnuhcm.edu.vn. 60	IN	A	203.162.44.60
+ttqlptkdt-beta.vnuhcm.edu.vn. 60 IN	A	203.162.44.60
+tttdtt.vnuhcm.edu.vn.	60	IN	A	103.88.123.130
+tuoitre.vnuhcm.edu.vn.	60	IN	A	210.211.118.168
+tuvantructuyen.vnuhcm.edu.vn. 60 IN	CNAME	tuvantuyensinh.vnuhcm.edu.vn.
+tuvantuyensinh.vnuhcm.edu.vn. 60 IN	A	203.162.147.185
+dangky.tuyensinh.vnuhcm.edu.vn.	60 IN	A	203.162.147.196
+dangky.tuyensinh.vnuhcm.edu.vn.	60 IN	MX	30 pro45.emailserver.vn.
+dangky.tuyensinh.vnuhcm.edu.vn.	60 IN	TXT	"v=spf1 mx include:emailserver.vn -all"
+mail.dangky.tuyensinh.vnuhcm.edu.vn. 60	IN CNAME pro45.emailserver.vn.
+tvtt.vnuhcm.edu.vn.	60	IN	CNAME	tuvantuyensinh.vnuhcm.edu.vn.
+vc.vnuhcm.edu.vn.	60	IN	A	171.244.28.100
+vnu-f.vnuhcm.edu.vn.	60	IN	A	103.88.121.141
+www.vnu-f.vnuhcm.edu.vn. 60	IN	A	103.88.121.141
+vnu-f2.vnuhcm.edu.vn.	60	IN	A	103.88.123.5
+vnu20.vnuhcm.edu.vn.	60	IN	A	203.162.147.185
+vnuc.vnuhcm.edu.vn.	60	IN	A	112.78.11.146
+vnuserv.vnuhcm.edu.vn.	60	IN	A	103.88.121.200
+vnuserv.vnuhcm.edu.vn.	60	IN	A	14.225.232.25
+vnuserv.vnuhcm.edu.vn.	60	IN	MX	50 vnuhcm.edu.vn.
+voice.vnuhcm.edu.vn.	60	IN	A	203.162.147.187
+webmail.vnuhcm.edu.vn.	60	IN	CNAME	ghs.google.com.
+wifi.vnuhcm.edu.vn.	60	IN	A	10.238.239.1
+www.vnuhcm.edu.vn.	60	IN	A	103.88.121.29
+vnuhcm.edu.vn.		60	IN	SOA	vnuserv.vnuhcm.edu.vn. info.vdc2.vn. 2023080147 3 1 604800 10800
+;; Query time: 36 msec
+;; SERVER: 14.225.232.26#53(ns2.vdc2.vn.) (TCP)
+;; WHEN: Fri Nov 15 08:37:37 EST 2024
+;; XFR size: 161 records (messages 1, bytes 4233)
+
+Attempting zone transfer for vnuhcm.edu.vn on nameserver: vnuserv.vnuhcm.edu.vn.
+
+; <<>> DiG 9.18.8-1-Debian <<>> @vnuserv.vnuhcm.edu.vn. vnuhcm.edu.vn AXFR
+; (1 server found)
+;; global options: +cmd
+; Transfer failed.
+----------------------------------------
+

@@ -1,0 +1,17 @@
+mail.megacorpone.com 167.114.21.68
+www.megacorpone.com 149.56.244.87
+ns2.megacorpone.com 51.222.39.63
+ns1.megacorpone.com 51.79.37.18
+www2.megacorpone.com 149.56.244.87
+admin.megacorpone.com 167.114.21.64
+test.megacorpone.com 167.114.21.75
+ns3.megacorpone.com 66.70.207.180
+vpn.megacorpone.com 167.114.21.76
+mail2.megacorpone.com 167.114.21.69
+beta.megacorpone.com 167.114.21.65
+support.megacorpone.com 167.114.21.74
+intranet.megacorpone.com 167.114.21.67
+router.megacorpone.com 167.114.21.70
+vpn2.megacorpone.com 167.114.21.77
+syslog.megacorpone.com 167.114.21.73
+fs1.megacorpone.com 167.114.21.66

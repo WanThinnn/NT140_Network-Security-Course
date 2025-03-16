@@ -1,0 +1,380 @@
+
+root@VM:/home/seed# nano task_4.py
+root@VM:/home/seed# python3 task_4.py 
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:06
+  src       = 02:42:0a:09:00:05
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 6325
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xdd8
+     src       = 10.9.0.5
+     dst       = 10.9.0.6
+     \options   \
+###[ ICMP ]### 
+        type      = echo-request
+        code      = 0
+        chksum    = 0xf956
+        id        = 0x2d
+        seq       = 0x1
+###[ Raw ]### 
+           load      = '\xe6N\x00g\x00\x00\x00\x00Q\xf2\x07\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:05
+  src       = 02:42:0a:09:00:06
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 32642
+     flags     = 
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xe70a
+     src       = 10.9.0.6
+     dst       = 10.9.0.5
+     \options   \
+###[ ICMP ]### 
+        type      = echo-reply
+        code      = 0
+        chksum    = 0x157
+        id        = 0x2d
+        seq       = 0x1
+###[ Raw ]### 
+           load      = '\xe6N\x00g\x00\x00\x00\x00Q\xf2\x07\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:06
+  src       = 02:42:0a:09:00:05
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 6557
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xcf0
+     src       = 10.9.0.5
+     dst       = 10.9.0.6
+     \options   \
+###[ ICMP ]### 
+        type      = echo-request
+        code      = 0
+        chksum    = 0x3507
+        id        = 0x2d
+        seq       = 0x2
+###[ Raw ]### 
+           load      = '\xe7N\x00g\x00\x00\x00\x00\x14A\x08\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:05
+  src       = 02:42:0a:09:00:06
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 32892
+     flags     = 
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xe610
+     src       = 10.9.0.6
+     dst       = 10.9.0.5
+     \options   \
+###[ ICMP ]### 
+        type      = echo-reply
+        code      = 0
+        chksum    = 0x3d07
+        id        = 0x2d
+        seq       = 0x2
+###[ Raw ]### 
+           load      = '\xe7N\x00g\x00\x00\x00\x00\x14A\x08\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:06
+  src       = 02:42:0a:09:00:05
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 6608
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xcbd
+     src       = 10.9.0.5
+     dst       = 10.9.0.6
+     \options   \
+###[ ICMP ]### 
+        type      = echo-request
+        code      = 0
+        chksum    = 0x54a7
+        id        = 0x2d
+        seq       = 0x3
+###[ Raw ]### 
+           load      = '\xe8N\x00g\x00\x00\x00\x00\xf3\x9f\x08\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:05
+  src       = 02:42:0a:09:00:06
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 32922
+     flags     = 
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xe5f2
+     src       = 10.9.0.6
+     dst       = 10.9.0.5
+     \options   \
+###[ ICMP ]### 
+        type      = echo-reply
+        code      = 0
+        chksum    = 0x5ca7
+        id        = 0x2d
+        seq       = 0x3
+###[ Raw ]### 
+           load      = '\xe8N\x00g\x00\x00\x00\x00\xf3\x9f\x08\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:06
+  src       = 02:42:0a:09:00:05
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 6715
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xc52
+     src       = 10.9.0.5
+     dst       = 10.9.0.6
+     \options   \
+###[ ICMP ]### 
+        type      = echo-request
+        code      = 0
+        chksum    = 0x5a48
+        id        = 0x2d
+        seq       = 0x4
+###[ Raw ]### 
+           load      = '\xe9N\x00g\x00\x00\x00\x00\xec\xfd\x08\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:05
+  src       = 02:42:0a:09:00:06
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 33006
+     flags     = 
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xe59e
+     src       = 10.9.0.6
+     dst       = 10.9.0.5
+     \options   \
+###[ ICMP ]### 
+        type      = echo-reply
+        code      = 0
+        chksum    = 0x6248
+        id        = 0x2d
+        seq       = 0x4
+###[ Raw ]### 
+           load      = '\xe9N\x00g\x00\x00\x00\x00\xec\xfd\x08\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:06
+  src       = 02:42:0a:09:00:05
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 6959
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xb5e
+     src       = 10.9.0.5
+     dst       = 10.9.0.6
+     \options   \
+###[ ICMP ]### 
+        type      = echo-request
+        code      = 0
+        chksum    = 0x52ea
+        id        = 0x2d
+        seq       = 0x5
+###[ Raw ]### 
+           load      = '\xeaN\x00g\x00\x00\x00\x00\xf2Z\t\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:05
+  src       = 02:42:0a:09:00:06
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 33234
+     flags     = 
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xe4ba
+     src       = 10.9.0.6
+     dst       = 10.9.0.5
+     \options   \
+###[ ICMP ]### 
+        type      = echo-reply
+        code      = 0
+        chksum    = 0x5aea
+        id        = 0x2d
+        seq       = 0x5
+###[ Raw ]### 
+           load      = '\xeaN\x00g\x00\x00\x00\x00\xf2Z\t\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:06
+  src       = 02:42:0a:09:00:05
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 7053
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xb00
+     src       = 10.9.0.5
+     dst       = 10.9.0.6
+     \options   \
+###[ ICMP ]### 
+        type      = echo-request
+        code      = 0
+        chksum    = 0xa389
+        id        = 0x2d
+        seq       = 0x6
+###[ Raw ]### 
+           load      = '\xebN\x00g\x00\x00\x00\x00\xa0\xba\t\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:05
+  src       = 02:42:0a:09:00:06
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 33483
+     flags     = 
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xe3c1
+     src       = 10.9.0.6
+     dst       = 10.9.0.5
+     \options   \
+###[ ICMP ]### 
+        type      = echo-reply
+        code      = 0
+        chksum    = 0xab89
+        id        = 0x2d
+        seq       = 0x6
+###[ Raw ]### 
+           load      = '\xebN\x00g\x00\x00\x00\x00\xa0\xba\t\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:06
+  src       = 02:42:0a:09:00:05
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 7251
+     flags     = DF
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xa3a
+     src       = 10.9.0.5
+     dst       = 10.9.0.6
+     \options   \
+###[ ICMP ]### 
+        type      = echo-request
+        code      = 0
+        chksum    = 0xe12b
+        id        = 0x2d
+        seq       = 0x7
+###[ Raw ]### 
+           load      = '\xecN\x00g\x00\x00\x00\x00a\x17\n\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
+
+###[ Ethernet ]### 
+  dst       = 02:42:0a:09:00:05
+  src       = 02:42:0a:09:00:06
+  type      = IPv4
+###[ IP ]### 
+     version   = 4
+     ihl       = 5
+     tos       = 0x0
+     len       = 84
+     id        = 33594
+     flags     = 
+     frag      = 0
+     ttl       = 64
+     proto     = icmp
+     chksum    = 0xe352
+     src       = 10.9.0.6
+     dst       = 10.9.0.5
+     \options   \
+###[ ICMP ]### 
+        type      = echo-reply
+        code      = 0
+        chksum    = 0xe92b
+        id        = 0x2d
+        seq       = 0x7
+###[ Raw ]### 
+           load      = '\xecN\x00g\x00\x00\x00\x00a\x17\n\x00\x00\x00\x00\x00\x10\x11\x12\x13\x14\x15\x16\x17\x18\x19\x1a\x1b\x1c\x1d\x1e\x1f !"#$%&\'()*+,-./01234567'
